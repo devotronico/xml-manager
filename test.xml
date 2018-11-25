@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users email="danmail">
+    <user>
+        <id>1</id>
+        <name>doe</name>
+        <address>
+            <zipcode>1123</zipcode>
+            <city>nola</city>
+        </address>
+    </user>
+    <user>
+        <id>2</id>
+        <name>bar</name>
+        <address>
+            <zipcode>9875</zipcode>
+            <city>napoli</city>
+        </address>
+    </user>
+<user><id>3</id><name>foo</name><address><zipcode>10349</zipcode><city>Bari</city></address></user></users>

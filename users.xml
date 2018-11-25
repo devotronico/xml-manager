@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user level="25">
+        <id>1</id>
+        <name>doe</name>
+        <age>18</age>
+        <address>
+            <street>via Sepe</street>
+            <num>21</num>
+            <zipcode>1123</zipcode>
+            <city>Nola</city>
+        </address>
+    </user>
+    <user level="50">
+        <id>2</id>
+        <name>bar</name>
+        <age>30</age>
+        <address>
+            <street>via Anfiteatro</street>
+             <num>7</num>
+            <zipcode>9875</zipcode>
+            <city>Napoli</city>
+        </address>
+    </user>
+    <user level="5">
+        <id>3</id>
+        <name>lin</name>
+        <age>12</age>
+        <address>
+            <street>via Napoleone</street>
+             <num>67</num>
+            <zipcode>26501</zipcode>
+            <city>Milano</city>
+        </address>
+    </user>
+</users>
